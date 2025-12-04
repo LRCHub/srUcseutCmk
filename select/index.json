@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ザイオン",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-04T15:17:51.764988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザイオン",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_ザイオン_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ザイオン - XION",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_ザイオン_-_XION_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ザイオン",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": false,
+      "path": "select/03_ザイオン_Hoshimachi_Suisei.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ザイオン / XION",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_ザイオン___XION_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ザイオン",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/05_ザイオン_星街すいせい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ザイオン",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_ザイオン_星街すいせい.txt"
+    }
+  ]
+}
